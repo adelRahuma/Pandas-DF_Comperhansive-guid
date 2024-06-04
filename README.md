@@ -1,1 +1,3 @@
-# Pandas-DF_Comperhansive-guid
+# Pandas-DF_Comperhansive-Guid
+
+## Instructions
